@@ -11,7 +11,7 @@ public class Abc {
 	}
 	void m1(String a)
 	{
-		System.out.println("Bengluru" +a);
+		System.out.println("Amravti" +a);
 	}
 
      public static void main(String[] args)
